@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My name is Seth.😊
 
 <!--
 **Sethroscoe223/Sethroscoe223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
